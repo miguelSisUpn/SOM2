@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="SOM_textcolorPrimary">@color/md_black_1000</color>
+    <color name="SOM_colorPrimary">@color/md_green_500</color>
+    <color name="SOM_colorPrimaryDark">@color/md_green_700</color>
+
+</resources>
